@@ -1,4 +1,4 @@
-# VANI Experiment Center — Agent A/B Testing & Auto-Rollout
+# Voice Pilot — Agent A/B Testing & Auto-Rollout
 
 A hackathon-ready implementation for **Voice AI Hackathon 2.0 — PS05: Agent A/B Testing & Auto-Rollout**.
 
