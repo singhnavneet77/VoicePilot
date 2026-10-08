@@ -16,7 +16,7 @@ from engine.stats import decide, compare_binary_rates
 
 
 st.set_page_config(
-    page_title="VoicePilot",
+    page_title="Voice Pilot",
     page_icon="🎙️",
     layout="wide",
     initial_sidebar_state="expanded",
@@ -57,7 +57,7 @@ st.markdown(
 st.markdown(
     """
 <div class="hero">
-<h1>VoicePilot — AI Voice Agent Experimentation & Safe Rollout</h1>
+<h1>Voice Pilot — AI Voice Agent Experimentation & Safe Rollout</h1>
 <p>Evidence-based prompt experimentation: test small → measure honestly → ship only when it wins.</p>
 </div>
 """,

@@ -27,7 +27,7 @@ A hackathon-ready implementation for **Voice AI Hackathon 2.0 — PS05: Agent A/
 ## Project structure
 
 ```text
-Voice Pilot_ab_rollout/
+Voice Pilot/
 ├── app/
 │   └── streamlit_app.py
 ├── engine/
@@ -260,8 +260,8 @@ pytest -q
 ## 9. Docker
 
 ```bash
-docker build -t Voice Pilot-ab-rollout .
-docker run -p 8501:8501 Voice Pilot-ab-rollout
+docker build -t voice-pilot-ab-rollout .
+docker run -p 8501:8501 voice-pilot-ab-rollout
 ```
 
 Then open:
