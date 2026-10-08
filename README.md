@@ -1,4 +1,4 @@
-# VANI Experiment Center — Agent A/B Testing & Auto-Rollout
+# Voice Pilot — Agent A/B Testing & Auto-Rollout
 
 A hackathon-ready implementation for **Voice AI Hackathon 2.0 — PS05: Agent A/B Testing & Auto-Rollout**.
 
@@ -27,7 +27,7 @@ A hackathon-ready implementation for **Voice AI Hackathon 2.0 — PS05: Agent A/
 ## Project structure
 
 ```text
-vani_ab_rollout/
+Voice Pilot_ab_rollout/
 ├── app/
 │   └── streamlit_app.py
 ├── engine/
@@ -249,7 +249,7 @@ and sticky assignment verification.
 
 **2:45–3:00 — Close**
 
-> "VANI Experiment Center turns prompt changes from judgement-based releases into evidence-based, reversible decisions."
+> "Voice Pilot turns prompt changes from judgement-based releases into evidence-based, reversible decisions."
 
 ## 8. Testing
 
@@ -260,8 +260,8 @@ pytest -q
 ## 9. Docker
 
 ```bash
-docker build -t vani-ab-rollout .
-docker run -p 8501:8501 vani-ab-rollout
+docker build -t Voice Pilot-ab-rollout .
+docker run -p 8501:8501 Voice Pilot-ab-rollout
 ```
 
 Then open:
