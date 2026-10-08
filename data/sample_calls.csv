@@ -1,0 +1,5 @@
+lead_id,variant,meeting_fixed,call_duration_sec,timestamp
+L001,A,1,48,2026-10-08T10:00:00
+L002,B,0,71,2026-10-08T10:01:00
+L003,A,0,62,2026-10-08T10:02:00
+L004,B,1,51,2026-10-08T10:03:00
